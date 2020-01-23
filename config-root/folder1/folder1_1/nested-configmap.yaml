@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: nested-configmap
+data:
+  param2: value2
+
+    
