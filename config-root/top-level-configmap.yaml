@@ -1,7 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: top-level-configmap
-  namespace: default
-data:
-  param1: value1
